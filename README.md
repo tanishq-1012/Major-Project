@@ -59,3 +59,8 @@ Developed as a **Final Year Major Project** by **Tanishq Sharma** and **Aman Raj
 6. **Termination**: After 1190 generations or plateau in improvement.
 
 ## 📊 Results
+
+- Best Fitness Achieved: `45592083`
+- Maximum Food Eaten by a Single Ant: `45596`
+- Total Generations Trained: `1190`
+- Visual progress shown through fitness and food-eaten graphs.
