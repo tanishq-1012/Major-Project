@@ -77,6 +77,13 @@ Developed as a **Final Year Major Project** by **Tanishq Sharma** and **Aman Raj
 - Upgrade from Genetic Algorithm to **Reinforcement Learning** for faster and smarter training.
 - Add environment dynamics like obstacles, changing food locations, etc.
 
+🔍 Key Features
+✅ Simulation of natural selection in artificial agents
+✅ Integration of deep learning (ANN) with evolutionary algorithms (GA)
+✅ Visualized agent-environment interactions using Pygame
+✅ Self-contained modules for scalability (Ant, Food, Environment)
+✅ Parameterized control over vision range, mutation, energy, etc.
+
 ## 🧾 Authors
 
 - **Tanishq Sharma** 
@@ -94,3 +101,4 @@ This project is part of an academic submission and intended for educational and 
 - Research on Genetic Algorithms and Neural Networks
 - Hide-and-Seek Multi-Agent Strategy (OpenAI)
 - Standard AI/ML textbooks and neural computation references
+
