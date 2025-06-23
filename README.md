@@ -48,3 +48,12 @@ Developed as a **Final Year Major Project** by **Tanishq Sharma** and **Aman Raj
   - 20 input neurons
   - 2 hidden layers: [20, 12]
   - 4 output neurons (representing directions)
+
+## 🧬 Genetic Algorithm Details
+
+1. **Initialization**: Random ANN weights as initial population.
+2. **Fitness Function**: Based on food collected before death.
+3. **Selection**: Top 50% used as parent pool.
+4. **Mutation**: 5% mutation rate; crossover not used.
+5. **Elitism**: Top 1% carried to the next generation.
+6. **Termination**: After 1190 generations or plateau in improvement.
