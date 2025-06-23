@@ -71,3 +71,8 @@ Developed as a **Final Year Major Project** by **Tanishq Sharma** and **Aman Raj
 - Environment is relatively simple and grid-bound.
 - Learning is slow due to brute-force nature of GA.
 
+## 🚀 Future Work
+
+- Introduce multiple ants for emergent behavior (e.g., teamwork, colony-building).
+- Upgrade from Genetic Algorithm to **Reinforcement Learning** for faster and smarter training.
+- Add environment dynamics like obstacles, changing food locations, etc.
