@@ -13,3 +13,9 @@ Developed as a **Final Year Major Project** by **Tanishq Sharma** and **Aman Raj
 - Record fitness and behavior improvements over time.
   
 ## 🧠 Technologies & Concepts Used
+
+- 🐍 Python 3.9
+- 🧬 Genetic Algorithms (GA)
+- 🧠 Artificial Neural Networks (ANN)
+- 🎮 Pygame for visualization
+- 📊 Fitness tracking and mutation-based learning
