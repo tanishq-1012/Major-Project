@@ -21,3 +21,15 @@ Developed as a **Final Year Major Project** by **Tanishq Sharma** and **Aman Raj
 - 📊 Fitness tracking and mutation-based learning
 
 ## 📁 Project Structure
+
+| File / Folder            | Description                                                  |
+|-------------------------|--------------------------------------------------------------|
+| `Ant.py`                | Ant class managing movement, vision, and energy logic        |
+| `Environment.py`        | Simulates environment, ant-food interaction, and GA loop     |
+| `Food.py`               | Handles food generation, tracking, and competition           |
+| `Vector.py`             | Vector utility class for position representation             |
+| `settings.py`           | Stores grid, tile size, and other simulation constants       |
+| `best_weight.pickle`    | Stores the best-performing ANN model for future use          |
+| `Major_project.pptx`    | Presentation slides detailing project overview and results   |
+| `Tanishq Final Project Report.pdf` | Full academic project report covering theory, code, and analysis |
+| `Major Project Synopsis.pdf` | Project proposal and scope outline                      |
