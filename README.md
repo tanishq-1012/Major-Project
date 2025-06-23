@@ -12,3 +12,4 @@ Developed as a **Final Year Major Project** by **Tanishq Sharma** and **Aman Raj
 - Use Genetic Algorithms to evolve the ant's intelligence over generations.
 - Record fitness and behavior improvements over time.
   
+## 🧠 Technologies & Concepts Used
