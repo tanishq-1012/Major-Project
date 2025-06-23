@@ -40,3 +40,11 @@ Developed as a **Final Year Major Project** by **Tanishq Sharma** and **Aman Raj
 - A 20x20 grid world.
 - Food randomly placed in the grid.
 - Ants die if they move outside the grid or run out of energy.
+
+### Ant
+- Can move in 8 directions.
+- Has limited vision range and directional mask.
+- Decision-making based on a neural network:
+  - 20 input neurons
+  - 2 hidden layers: [20, 12]
+  - 4 output neurons (representing directions)
