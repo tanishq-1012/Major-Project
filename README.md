@@ -76,3 +76,11 @@ Developed as a **Final Year Major Project** by **Tanishq Sharma** and **Aman Raj
 - Introduce multiple ants for emergent behavior (e.g., teamwork, colony-building).
 - Upgrade from Genetic Algorithm to **Reinforcement Learning** for faster and smarter training.
 - Add environment dynamics like obstacles, changing food locations, etc.
+
+## 🧾 Authors
+
+- **Tanishq Sharma** 
+- **Aman Raj** 
+
+Department of Computer Science & Engineering,  
+MDU Rohtak.
