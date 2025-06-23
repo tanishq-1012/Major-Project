@@ -57,3 +57,5 @@ Developed as a **Final Year Major Project** by **Tanishq Sharma** and **Aman Raj
 4. **Mutation**: 5% mutation rate; crossover not used.
 5. **Elitism**: Top 1% carried to the next generation.
 6. **Termination**: After 1190 generations or plateau in improvement.
+
+## 📊 Results
