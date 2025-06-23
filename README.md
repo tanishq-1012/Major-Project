@@ -33,3 +33,10 @@ Developed as a **Final Year Major Project** by **Tanishq Sharma** and **Aman Raj
 | `Major_project.pptx`    | Presentation slides detailing project overview and results   |
 | `Tanishq Final Project Report.pdf` | Full academic project report covering theory, code, and analysis |
 | `Major Project Synopsis.pdf` | Project proposal and scope outline                      |
+
+## 🧪 Simulation Details
+
+### Environment
+- A 20x20 grid world.
+- Food randomly placed in the grid.
+- Ants die if they move outside the grid or run out of energy.
