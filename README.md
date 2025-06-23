@@ -70,3 +70,4 @@ Developed as a **Final Year Major Project** by **Tanishq Sharma** and **Aman Raj
 - Only single-ant interaction modeled.
 - Environment is relatively simple and grid-bound.
 - Learning is slow due to brute-force nature of GA.
+
