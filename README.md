@@ -84,3 +84,13 @@ Developed as a **Final Year Major Project** by **Tanishq Sharma** and **Aman Raj
 
 Department of Computer Science & Engineering,  
 MDU Rohtak.
+
+## 📜 License
+
+This project is part of an academic submission and intended for educational and research purposes.
+
+## 🔗 References
+
+- Research on Genetic Algorithms and Neural Networks
+- Hide-and-Seek Multi-Agent Strategy (OpenAI)
+- Standard AI/ML textbooks and neural computation references
