@@ -64,3 +64,9 @@ Developed as a **Final Year Major Project** by **Tanishq Sharma** and **Aman Raj
 - Maximum Food Eaten by a Single Ant: `45596`
 - Total Generations Trained: `1190`
 - Visual progress shown through fitness and food-eaten graphs.
+
+## 🚧 Limitations
+
+- Only single-ant interaction modeled.
+- Environment is relatively simple and grid-bound.
+- Learning is slow due to brute-force nature of GA.
